@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "test": "this is just an example"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "backend",
